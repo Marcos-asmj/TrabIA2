@@ -1,0 +1,8 @@
+{
+    "conversas": [
+        {
+            "mensagens": [ "quem foi presidente no ano de ?", "quem foi presidente no ano ?"],
+            "resposta": "O(s) presidente(s) nesse ano foram: "
+        }
+    ]
+}

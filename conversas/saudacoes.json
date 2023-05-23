@@ -1,0 +1,20 @@
+{
+    "conversas": [
+        {
+            "mensagens": [ "oi", "olá", "tudo bem?" ],
+            "resposta": "Oi, sou Maria, robo de consulta de dados de cargos publicos. Como posso te ajudar?"    
+        },
+        {
+            "mensagens": ["bom dia"],
+            "resposta": "Bom dia, sou Maria, robo de consulta de dados de cargos publicos. Como posso te ajudar?"
+        },
+        {
+            "mensagens": ["boa tarde"],
+            "resposta": "Boa tarde, sou Maria, robo de consulta de dados de cargos publicos. Como posso te ajudar?"
+        },
+        {
+            "mensagens": ["boa noite"],
+            "resposta": "Boa noite, sou Maria, robo de consulta de dados de cargos publicos. Como posso te ajudar?"
+        }
+    ]
+}
